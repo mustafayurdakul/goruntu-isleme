@@ -1,6 +1,6 @@
 ## goruntu-isleme
 
-#Görüntü İşleme Dersi, Lab Kodları ve Haftalık Açıklamalar
+Görüntü İşleme Dersi, Lab Kodları ve Haftalık Açıklamalar
 
 ***Mustafa Yurdakul 160401072***
 
