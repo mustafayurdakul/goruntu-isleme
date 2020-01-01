@@ -29,4 +29,3 @@ Görüntü İşleme Dersi, Lab Kodları ve Haftalık Açıklamalar
 **Hafta - 12:** Multi Layer Perceptron
 
 **Hafta - 13:** CNN
-
