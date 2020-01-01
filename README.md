@@ -1,6 +1,8 @@
 # Mustafa Yurdakul 160401072
 
-Görüntü İşleme dersi için ***"Sinir Ağı Oluşturma"*** konulu **makaleme** Medium sitesinden **@yurdakulmustafa** kullanıcı adı ile veya linke tıklayarak ulaşabilirsiniz: https://bit.ly/2SIfP1i
+Görüntü İşleme dersi için ***"Sinir Ağı Oluşturma"*** konulu **makaleme** Medium sitesinden **@yurdakulmustafa** kullanıcı adı ile veya aşağıdaki linke tıklayarak ulaşabilirsiniz: 
+
+[Sıfırdan Sinir Ağı Oluşturma: 1. Bölüm](https://bit.ly/2SIfP1i)
 
 ## Görüntü İşleme Dersi
 Görüntü İşleme Dersi, Lab Kodları ve Haftalık Açıklamalar
