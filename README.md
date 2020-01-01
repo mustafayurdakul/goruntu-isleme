@@ -1,7 +1,9 @@
+# Mustafa Yurdakul 160401072
+
+Görüntü İşleme dersi için ***"Sinir Ağı Oluşturma"*** konulu **makaleme** Medium sitesi **@yurdakulmustafa** kullanıcı adı ile veya aşağıdaki linkten ulaşabilirsiniz: https://bit.ly/2SIfP1i
+
 ## Görüntü İşleme Dersi
 Görüntü İşleme Dersi, Lab Kodları ve Haftalık Açıklamalar
-
-# Mustafa Yurdakul 160401072
 
 **Hafta – 1:** Resmi analiz etme ve intensity dönüşümü uygulama.
 
@@ -29,4 +31,3 @@ Görüntü İşleme Dersi, Lab Kodları ve Haftalık Açıklamalar
 
 **Hafta - 13:** CNN
 
-# Görüntü İşleme dersi için ***"Sinir Ağı Oluşturma"*** konulu **makaleme** buradan ulaşabilirsiniz: https://medium.com/@yurdakulmustafa/s%C4%B1f%C4%B1rdan-sinir-a%C4%9F%C4%B1-olu%C5%9Fturma-1-b%C3%B6l%C3%BCm-9ff8b417e356
