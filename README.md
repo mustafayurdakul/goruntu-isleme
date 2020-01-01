@@ -1,7 +1,7 @@
 ## Görüntü İşleme Dersi
 Görüntü İşleme Dersi, Lab Kodları ve Haftalık Açıklamalar
 
-## Mustafa Yurdakul 160401072
+# Mustafa Yurdakul 160401072
 
 **Hafta – 1:** Resmi analiz etme ve intensity dönüşümü uygulama.
 
