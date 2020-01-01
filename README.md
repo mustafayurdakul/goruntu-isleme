@@ -1,5 +1,4 @@
-## goruntu-isleme
-
+## Görüntü İşleme Dersi
 Görüntü İşleme Dersi, Lab Kodları ve Haftalık Açıklamalar
 
 ## Mustafa Yurdakul 160401072
