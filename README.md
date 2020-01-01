@@ -2,7 +2,7 @@
 
 Görüntü İşleme dersi için ***"Sinir Ağı Oluşturma"*** konulu **makaleme** Medium sitesinden **@yurdakulmustafa** kullanıcı adı ile veya aşağıdaki linke tıklayarak ulaşabilirsiniz: 
 
-[Sıfırdan Sinir Ağı Oluşturma: 1. Bölüm](https://bit.ly/2SIfP1i)
+[Sıfırdan Sinir Ağı Oluşturma: 1. Bölüm](https://medium.com/@yurdakulmustafa/s%C4%B1f%C4%B1rdan-sinir-a%C4%9F%C4%B1-olu%C5%9Fturma-1-b%C3%B6l%C3%BCm-9ff8b417e356)
 
 ## Görüntü İşleme Dersi
 Görüntü İşleme Dersi, Lab Kodları ve Haftalık Açıklamalar
